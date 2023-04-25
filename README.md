@@ -16,8 +16,14 @@ All you need to do is to download the files and open the task_manager.py in code
 1. Program creates database and adds data to it based on information given:
 
 Input:
+
 ![image](https://user-images.githubusercontent.com/118485184/234416798-34dfccc9-1d95-41cf-8744-70172a7c5822.png)
 
 Output: 
 
 ![image](https://user-images.githubusercontent.com/118485184/234416859-6aa8505a-c0ef-4c44-b795-eac88b4b8a0d.png)
+
+2. Bookstore menu is displayed for user on the terminal.
+
+![image](https://user-images.githubusercontent.com/118485184/234417015-c558d41d-cc0a-41e9-90a4-b995f0f97445.png)
+
