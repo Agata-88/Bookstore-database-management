@@ -27,3 +27,15 @@ Output:
 
 ![image](https://user-images.githubusercontent.com/118485184/234417015-c558d41d-cc0a-41e9-90a4-b995f0f97445.png)
 
+3. When option 1 is selected user can add book to the database. User needs to confirm book title, author and quantity available.
+
+Input: 
+
+![image](https://user-images.githubusercontent.com/118485184/234417559-d59f9e07-1a2e-4d8f-8bbb-a4c6d8bfa490.png)
+
+Output: 
+
+![image](https://user-images.githubusercontent.com/118485184/234417631-9dd96710-9d1a-4b82-9e8f-398881282a5e.png)
+
+
+
