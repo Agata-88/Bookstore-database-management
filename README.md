@@ -48,6 +48,7 @@ Output:
 ![image](https://user-images.githubusercontent.com/118485184/234418134-62041638-edeb-4a2b-9004-1708f18bca14.png)
 
 5. When option 3 is selected user can delete book from the database.
+
 Input: 
 
 ![image](https://user-images.githubusercontent.com/118485184/234418373-9d0231d2-4fef-42a7-be75-ac6bdce40a24.png)
@@ -56,6 +57,16 @@ Input:
 Output: 
 
 ![image](https://user-images.githubusercontent.com/118485184/234418448-1f3879a0-4a1b-4cb3-bb91-5eaddf65d422.png)
+
+6. When option 4 is selected user can search for specific book by providing book id, title or author. Requested information is displayed on the terminal.
+
+![image](https://user-images.githubusercontent.com/118485184/234418615-56e0968f-2438-434d-b742-83ee56f86e2f.png)
+
+7. When option 5 is selected program terminates.
+
+##Credits
+Agata-88
+
 
 
 
